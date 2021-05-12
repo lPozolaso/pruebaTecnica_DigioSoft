@@ -1,0 +1,25 @@
+html {
+    background: url('https://i.postimg.cc/rw1GmQWS/imagen-fondo.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: #000;
+    max-width: 100%;
+  
+  }
+  
+  body {
+ 
+    background: transparent;
+    
+  }
+  div.row {
+    background-color: rgba(255, 255, 255, 0.8);
+    
+    padding: 5%;
+    margin: 5%;
+      }
+  button{
+      padding-top:40px;
+  }
